@@ -1,0 +1,10 @@
+# Build output
+.zig-cache
+lib
+build/
+
+# IDE
+.vscode
+
+# zig binary
+zig
